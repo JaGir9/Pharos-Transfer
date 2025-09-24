@@ -1,0 +1,13 @@
+{
+  "name": "pharos-transfer",
+  "version": "1.0.1",
+  "description": "Auto transfer token testnet Pharos",
+  "main": "transfer.js",
+  "type": "module",
+  "scripts": {
+    "start": "node transfer.js"
+  },
+  "dependencies": {
+    "ethers": "^6.15.0"
+  }
+}
