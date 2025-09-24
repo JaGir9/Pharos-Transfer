@@ -70,7 +70,7 @@ export PHAROS_RPC=<RPC_URL>
 ## 🙌 Donasi
 Jika script ini bermanfaat, dukung pengembangan dengan berdonasi ke alamat EVM berikut:
 
-**`0xD295AA6F58b7c9a2ADb6f6c1596EAb6e4c817Ac0`**
+**`0xA11B1b127d54F87Af7cD77e91bc843713dE96D05`**
 
 ---
 
