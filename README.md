@@ -33,15 +33,15 @@ pharos-transfer/
 
 ## Contoh pk.txt
 ```
-0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+0xPrivateKey-1
+0xPrivateKey-2
 ```
 
 ## Contoh wallet.txt
 ```
-0x1111111111111111111111111111111111111111
-0x2222222222222222222222222222222222222222
-0x3333333333333333333333333333333333333333
+0xWallet-1
+0xWallet-2
+0xWallet-3
 ```
 
 ## Jalankan Script
