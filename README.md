@@ -75,4 +75,4 @@ Jika script ini bermanfaat, dukung pengembangan dengan berdonasi ke alamat EVM b
 ---
 
 ## 👤 Author
-Made with ❤️ by **JaGir9**
+Made with ❤️ by Made with ❤️ by [JaGir9](https://github.com/JaGir9)  
